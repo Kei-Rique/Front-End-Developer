@@ -1,0 +1,77 @@
+body{
+ background: url("img/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: white;
+}
+
+hr{
+  color: black;
+  height:1px;
+  border-width:0;
+  width: 85%;
+  background-color:gray
+}
+h1{
+  color: white;
+  font-size: 5vw;
+  font-family:Verdana;
+}
+
+h5{
+  font-size: 1.5vw;
+  text-align: center;
+  color: #00bfd2;
+}
+h3{
+  text-align: center;
+  color: black;
+}
+h4{
+  font-family:Verdana;
+  color: black;
+
+
+}
+p{
+  color: black;
+  font-family:Arial;
+
+}
+a{
+  color: #FFF;
+}
+.ctr{
+  margin-left: 50%;
+  margin-top: 10%;
+  position: absolute;
+}
+
+
+.divbox{
+  height: 7vw;
+  width: 7vw;
+  background-color: white;
+  margin: auto;
+}
+
+.container1{
+  background-color: ;
+  padding: 5vw;
+  margin: 5vw;
+ }
+ .divider{
+  margin-top: 7vw;
+  margin-bottom:7vw;
+ }
+ .divider1{
+  margin-top: 3vw;
+  margin-bottom:3vw;
+ }
+
+ .center{
+ margin-left: auto;
+  margin-right: auto;
+  display: block;
+ }
